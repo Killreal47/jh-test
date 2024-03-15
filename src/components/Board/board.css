@@ -1,0 +1,7 @@
+.wrapper{
+    background-color : #150137;
+    display: flex;
+    justify-content: space-around;
+    color: #FFFFFF;
+    padding : 10px;
+}

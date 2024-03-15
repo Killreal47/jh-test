@@ -1,0 +1,16 @@
+.item-category {
+    width: 270px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.item-category__name {
+    font-size: 14px;
+}
+
+.item-category__lists {
+    margin-bottom: 15px;
+}
+
+
